@@ -1,6 +1,6 @@
 # Frontend Mentor - Job Listings with Filtering
 
-This is a solution to the [Job Listings with Filtering Challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/job-listings-with-filtering-ivstIPCt). The project showcases dynamic filtering of job listings and is designed to be responsive and user-friendly.
+This is a solution to the [Job Listings with Filtering Challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/job-listings-with-filtering-ivstIPCt). The project implements an interactive job board with a filtering system that allows users to refine job listings based on multiple criteria such as role, level, languages, and tools. Using React.js and Tailwind CSS, I've created a fully responsive interface that provides an optimal viewing experience across devices from mobile phones to desktop computers.
 
 ![Job Listings](https://github.com/user-attachments/assets/f2dc9b77-ca9b-46e3-94d9-d864d2ecfcb5)
 
