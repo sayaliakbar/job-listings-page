@@ -4,26 +4,6 @@ This is a solution to the [Job Listings with Filtering Challenge on Frontend Men
 
 ![Job Listings](https://github.com/user-attachments/assets/f2dc9b77-ca9b-46e3-94d9-d864d2ecfcb5)
 
-## Table of Contents
-
-- [Overview](#overview)
-  - [The Challenge](#the-challenge)
-  - [Live Demo](#live-demo)
-- [Built With](#built-with)
-- [Project Structure](#project-structure)
-- [Features](#features)
-- [Technical Implementation](#technical-implementation)
-  - [State Management](#state-management)
-  - [Component Architecture](#component-architecture)
-  - [Asset Management](#asset-management)
-- [What I Learned](#what-i-learned)
-- [Getting Started](#getting-started)
-  - [Installation](#installation)
-  - [Running Locally](#running-locally)
-- [Useful Resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
 ## Overview
 
 ### The Challenge
@@ -47,8 +27,6 @@ The main objectives of this project were to:
 - **Zustand** (v5.0.2): A lightweight state management library used for managing filters
 - **ESLint** (v9.17.0): For code quality and consistency
 - Semantic HTML5 and CSS3 for markup and styling
-
----
 
 ## Project Structure
 
@@ -78,8 +56,6 @@ job-listings-page/
 └── vite.config.js            # Vite configuration
 ```
 
----
-
 ## Features
 
 - **Dynamic Filtering System**: Filter job listings based on role, level, languages, and tools
@@ -93,8 +69,6 @@ job-listings-page/
 - **Left Border Accent**: Featured jobs have a left border accent
 - **Company Logo Display**: Properly positioned company logos from SVG assets
 - **Clean Modern UI**: Built with Tailwind CSS custom theme colors
-
----
 
 ## Technical Implementation
 
@@ -149,8 +123,6 @@ export function getAsset(path) {
 }
 ```
 
----
-
 ## What I Learned
 
 This project was a great opportunity to apply advanced React concepts like component composition, state management with **Zustand**, and building reusable components. Key learning points include:
@@ -187,8 +159,6 @@ Example of responsive design with Tailwind:
 />
 ```
 
----
-
 ## Getting Started
 
 ### Installation
@@ -224,8 +194,6 @@ Example of responsive design with Tailwind:
    npm run build
    ```
 
----
-
 ## Useful Resources
 
 - [React Documentation](https://react.dev): Comprehensive guides for React development
@@ -234,15 +202,11 @@ Example of responsive design with Tailwind:
 - [Vite Documentation](https://vitejs.dev/guide/): Fast frontend build tool
 - [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/job-listings-with-filtering-ivstIPCt): The challenge details and requirements
 
----
-
 ## Author
 
 - GitHub: [@sayaliakbar](https://github.com/sayaliakbar)
 - LinkedIn: [@sayaliakbar](https://linkedin.com/in/sayaliakbar)
 - Instagram: [@ialiakbarhazara](https://instagram.com/ialiakbarhazara)
-
----
 
 ## Acknowledgments
 
